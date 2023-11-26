@@ -8,7 +8,7 @@
   
 <a href="https://github.com/hyungtaecf/hyungtaecf">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hyungtaecf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyungtaecf&layout=compact&langs_count=12&exclude_repo=flutter_wikipedia&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyungtaecf&layout=compact&langs_count=14&hide=objective-c,makefile,shaderlab,cmake,hlsl,shell&theme=dracula"/>
 </a>
     
 ### :hammer_and_wrench: Languages & Tools
