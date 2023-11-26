@@ -5,12 +5,11 @@
 🎓 Graduated in Computer Engineering from Sunmoon University
 
 **I Speak** 🇧🇷 🇬🇧 🇪🇸 🇰🇷 🇩🇪
-
-<div>
-  <a href="https://github.com/hyungtaecf/hyungtaecf">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hyungtaecf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyungtaecf&layout=compact&langs_count=14&theme=dracula"/>
-</div>
+  
+<a href="https://github.com/hyungtaecf/hyungtaecf">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyungtaecf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyungtaecf&layout=compact&langs_count=12&exclude_repo=flutter_wikipedia&theme=dracula"/>
+</a>
     
 ### :hammer_and_wrench: Languages & Tools
 
